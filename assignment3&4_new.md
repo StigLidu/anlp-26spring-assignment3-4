@@ -127,11 +127,11 @@ permalink: /assignments/assignment3&4/
         </tr>
         <tr>
             <td align="left" style="padding: 8px;">Assignment 4: Poster Presentation</td>
-            <td align="left" style="padding: 8px;">10%</td>
+            <td align="left" style="padding: 8px;">5%</td>
         </tr>
         <tr>
             <td align="left" style="padding: 8px;">Assignment 4: Full Project</td>
-            <td align="left" style="padding: 8px;">15%</td>
+            <td align="left" style="padding: 8px;">20%</td>
         </tr>
     </tbody>
 </table>

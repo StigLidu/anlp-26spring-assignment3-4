@@ -28,8 +28,8 @@ This note summarizes student-facing changes between `assignment3&4_old.md` and `
 | Assignment 3: Project Hours           | 3%  | 4%  |
 | Assignment 3.1: Project Proposal      | 10% | 6%  |
 | Assignment 3.2: Baseline Reproduction | 7%  | 5%  |
-| Assignment 4: Poster Presentation     | 5%  | 10% |
-| Assignment 4: Full Project            | 25% | 15% |
+| Assignment 4: Poster Presentation     | 5%  | 5%  |
+| Assignment 4: Full Project            | 25% | 20% |
 
 
 ## 3. Project Hours policy and rubric updates
