@@ -531,7 +531,7 @@ permalink: /assignments/assignment3&4/
 
 <h4 id="project-hours-poster-session-conflicts" style="color: #a83232; font-weight: bold;">Project Hours/Poster Session Conflicts</h4>
 <p>You must attend the project hours and the poster session in person. There will be sign-in sheets on these days. Note that missing your team’s scheduled project hours or poster session day will result in a 0 grade for that component. You are required to attend the project hours and present your poster in person.</p>
-<p>If you have a serious conflict with one of the project hours or poster session days (e.g. for academic conference travel), let us know in advance (make a private post on Piazza and provide your team name). We will do our best to accommodate you by scheduling your team for the alternative date.</p>
+<p>If you have a serious conflict with one of the project hours or poster session days (e.g. for academic conference travel), let us know in advance (make a private post on Piazza and provide your team name). Exeptional circumstances will be handled on a case by case basis.</p>
 
 <h4 id="poster-printing" style="color: #a83232; font-weight: bold;">Poster Printing</h4>
 <p>See <a href="https://cmu-l3.github.io/anlp-spring2026/#poster">https://cmu-l3.github.io/anlp-spring2026/#poster</a> for details.</p>
