@@ -459,7 +459,7 @@ permalink: /assignments/assignment3&4/
 </ul>
 
 <h4 id="submission-requirements-2" style="color: #a83232; font-weight: bold;">Submission Requirements</h4>
-<p>Please submit a LaTeX report in ACL format: <a href="https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj">ACL Overleaf Template</a>. Page Limit: 8 pages; unlimited pages for references and (optional) appendix.</p>
+<p>Please submit a LaTeX report in ACL format: <a href="https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj">ACL Overleaf Template</a>. Page Limit: up to 9 pages; unlimited pages for references and (optional) appendix.</p>
 
 <h4 id="grading-rubric-3">Grading Rubric</h4>
 <table style="border-collapse: collapse; width: 100%;">
