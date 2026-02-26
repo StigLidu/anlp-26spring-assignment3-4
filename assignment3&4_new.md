@@ -46,8 +46,8 @@ permalink: /assignments/assignment3&4/
     <tr>
         <td align="left" style="padding: 8px;">3/12</td>
         <td align="left" style="padding: 8px;">
-          <a href="https://forms.gle/6DgWML37yNWptuj2A" target="_blank">
-            Submit TA matching form (to be updated)
+          <a href="https://forms.gle/FrtJxeYoXcGuP5jo6" target="_blank">
+            Submit TA matching form
           </a>
         </td>
     </tr>
